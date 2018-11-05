@@ -1,3 +1,5 @@
+# 这个项目可以做到手写文字模拟
+
 # Origin
 
 The original RNNLIB is hosted at http://sourceforge.net/projects/rnnl
